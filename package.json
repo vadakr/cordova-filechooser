@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ihadeed/cordova-filechooser.git"
+    "url": "git+https://github.com/vadakr/cordova-filechooser.git"
   },
   "author": "",
   "license": "ISC",
