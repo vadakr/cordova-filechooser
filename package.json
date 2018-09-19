@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-filechooser",
+  "name": "com.megster.cordova.FileChooser",
   "version": "1.0.1",
   "description": "Cordova FileChooser Plugin",
   "main": "index.js",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ihadeed/cordova-filechooser#readme",
   "cordova": {
-    "id": "cordova-plugin-filechooser",
+    "id": "com.megster.cordova.FileChooser",
     "platforms": [
       "android",
       "windows"
